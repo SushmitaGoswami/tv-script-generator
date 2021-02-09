@@ -99,6 +99,5 @@ jerry: you know what the
 
 
 # Technology used
-Python Frameworks (NumPy, Pytorch, Matplotlib, etc.)
-Recurrent Neural Network (Tried with both Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU))
-
+- Python Frameworks (NumPy, Pytorch, Matplotlib, etc.)
+- Recurrent Neural Network (Tried with both Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU))
